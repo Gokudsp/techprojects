@@ -1,0 +1,2 @@
+# techprojects
+display propertics
